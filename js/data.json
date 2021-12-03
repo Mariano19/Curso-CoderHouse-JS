@@ -1,0 +1,155 @@
+[
+        {
+                "id": 1,
+                "nombre": "Zapatilla Detroit",
+                "clase": "Zapatilla",
+                "tipo": "Hombre",
+                "marca": "Magher",
+                "precio": 8500,
+                "imagen": "z1.webp"
+        },
+        {
+                "id": 2,
+                "nombre": "Zapatilla Air 270",
+                "clase": "Zapatilla",
+                "tipo": "Hombre",
+                "marca": "Vicus",
+                "precio": 14900,
+                "imagen": "z2.webp"
+        },
+        {
+                "id": 3,
+                "nombre": "Zapatillas Puma X3",
+                "clase": "Zapatillas",
+                "tipo": "Hombre",
+                "marca": "Jaguar",
+                "precio": 7500,
+                "imagen": "b1.webp"
+        },
+        {
+                "id": 4,
+                "nombre": "Zapatillas NB574",
+                "clase": "Zapatillas",
+                "tipo": "Hombre",
+                "marca": "New Balance",
+                "precio": 12500,
+                "imagen": "z8.webp"
+        },
+        {
+                "id": 5,
+                "nombre": "Zapatillas Adidas Terrex",
+                "clase": "Zapatillas",
+                "tipo": "Hombre",
+                "marca": "Adidas",
+                "precio": 14500,
+                "imagen": "z6.webp"
+        },
+        {
+                "id": 6,
+                "nombre": "Zapatilla Comet 2",
+                "clase": "Zapatilla",
+                "tipo": "Mujer",
+                "marca": "Puma",
+                "precio": 11500,
+                "imagen": "z3.webp"
+        },
+        {
+                "id": 7,
+                "nombre": "Zapatilla Ultralight II",
+                "clase": "Zapatilla",
+                "tipo": "Mujer",
+                "marca": "Topper",
+                "precio": 6500,
+                "imagen": "z4.webp"
+        },
+        {
+                "id": 8,
+                "nombre": "Zapatilla Sport70",
+                "clase": "Zapatilla",
+                "tipo": "Mujer",
+                "marca": "Vicus",
+                "precio": 14000,
+                "imagen": "z5.webp"
+        },
+        {
+                "id": 9,
+                "nombre": "Zapatilla Kinvara11",
+                "clase": "Zapatilla",
+                "tipo": "Mujer",
+                "marca": "Topper",
+                "precio": 5500,
+                "imagen": "z7.webp"
+        },
+        {
+                "id": 10,
+                "nombre": "Ojotas Molokai",
+                "clase": "Ojotas",
+                "tipo": "Accesorios",
+                "marca": "Quicksilver",
+                "precio": 3699,
+                "imagen": "o1.webp"
+        },
+        {
+                "id": 11,
+                "nombre": "Ojotas Havaianas Brasil",
+                "clase": "Ojotas",
+                "tipo": "Accesorios",
+                "marca": "Havaianas",
+                "precio": 2550,
+                "imagen": "o2.webp"
+        },
+        {
+                "id": 12,
+                "nombre": "Ojotas Rider R1",
+                "clase": "Ojotas",
+                "tipo": "Accesorios",
+                "marca": "Rider",
+                "precio": 1700,
+                "imagen": "o3.webp"
+        },
+        {
+                "id": 13,
+                "nombre": "Medias Sports Pack",
+                "clase": "Medias",
+                "tipo": "Accesorios",
+                "marca": "Mateu",
+                "precio": 500,
+                "imagen": "m1.webp"
+        },
+        {
+                "id": 14,
+                "nombre": "Zapatilla Disruptor Li",
+                "clase": "Zapatilla",
+                "tipo": "Mujer",
+                "marca": "Fila",
+                "precio": 13500,
+                "imagen": "z4.webp"
+        },
+        {
+                "id": 15,
+                "nombre": "Zapatilla Jiro",
+                "clase": "Zapatilla",
+                "tipo": "Mujer",
+                "marca": "Topper",
+                "precio": 6199,
+                "imagen": "z9.webp"
+        },
+        {
+                "id": 16,
+                "nombre": "Zapatilla Ultralight II",
+                "clase": "Zapatilla",
+                "tipo": "Mujer",
+                "marca": "Topper",
+                "precio": 6500,
+                "imagen": "z10.webp"
+        },
+        {
+                "id": 17,
+                "nombre": "Pack x6 Pares",
+                "clase": "Medias",
+                "tipo": "Accesorios",
+                "marca": "Eyelit",
+                "precio": 2780,
+                "imagen": "m3.webp"
+        }
+]
