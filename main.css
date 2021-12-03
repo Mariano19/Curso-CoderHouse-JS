@@ -196,7 +196,7 @@ p.text-right{
     font-family: 'Amatic SC';
 }
 .modal-content{
-    background-image: url(./img/alert.png);
+    background-image: url(img/alert.png);
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -276,7 +276,7 @@ a:hover{
 
 footer {
     /*background-color: #494949; */
-    background-image: url(/img/fondofooter.jpg);
+    background-image: url(img/fondofooter.jpg);
     background-size: cover;
     background-position: center;
     border-top: 20px solid #8be64e;
@@ -330,8 +330,7 @@ footer .footer2 {
 }
 footer .footer2 .cuartaColumna {
     text-align: center;
-    font-size: 12px;
-    font-family: 'Montserrat';
+    font-size: 12px;    
     color: white; 
 }
 
